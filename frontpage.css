@@ -1,0 +1,43 @@
+.inlineBox {
+    display: inline-block;
+    border: #a7a7a7 1px solid; 
+    height: 3rem;
+    width: 10rem;
+    margin: 0;
+    max-height: 3rem;
+}
+
+textarea
+{
+    resize: none;
+}
+
+#sumResult
+{
+    height: 200px;
+}
+
+
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    margin-top: 2em;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 1px;
+    padding-top: 2px;
+    text-align: center
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    color: steelblue;
+    font-family: cursive;
+}
